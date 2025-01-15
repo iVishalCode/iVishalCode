@@ -49,7 +49,7 @@ I'm Vishal, a passionate Full-Stack Developer from India. I specialize in buildi
 ## 📫 Let's Connect
 
 - **Email:** ilearnvk@gmail.com
-- **LinkedIn:** [Linkdin](https://www.linkedin.com/in/vishal-kumar-779054260/)
+- **LinkedIn:** [Linkedin](https://www.linkedin.com/in/vishal-kumar-779054260/)
 - **Twitter:** [Twitter](https://twitter.com/iVishalCode)
 
 ---
