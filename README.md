@@ -1,15 +1,18 @@
 
 
 # Hi there! 👋
+<h1 align="center">Hi 👋, I'm Vishal</h1>
 
-<h1>I'm Vishal, a passionate Full-Stack Developer from India. I specialize in building scalable and efficient web applications, with a strong emphasis on DevOps practices and system design principles.</h1>
+<h3>A passionate Full-Stack Developer from India. I specialize in building scalable and efficient web applications, with a strong emphasis on DevOps practices and system design principles.</h3>
 
 - 🌱 I’m currently learning **TypeScript**
-- 
+  
 - 💬 Ask me about **JavaScript,React.js,Php,Express.js,Mongoose**
 
 - 📫 How to reach me **ilearnvk@gmail.com**
-- 
+  
+- ⚡ Fun fact **Did you know? When I'm not coding, I love exploring the great outdoors and going on hiking adventures! 🌲🚶‍♂️**
+  
 ## 🛠️ Tech Stack
 
 **Languages:**
@@ -51,15 +54,6 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=iVishalCode&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iVishalCode&layout=compact&theme=radical)
-
-<h1 align="center">Hi 👋, I'm Vishal</h1>
-<h3 align="center">I'm a Full Stack Developer as well as B.Tech student in Computer Science with a passion for creating dynamic and responsive web applications.</h3>
-
-
-
-
-
-- ⚡ Fun fact **Did you know? When I'm not coding, I love exploring the great outdoors and going on hiking adventures! 🌲🚶‍♂️**
 
 <h3 align="left">Connect with me:</h3>
   <a href="https://linkedin.com/in/vishal-kumar-779054260" target="_blank">
