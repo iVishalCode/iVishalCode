@@ -1,6 +1,4 @@
 
-
-# Hi there! 👋
 <h1 align="center">Hi 👋, I'm Vishal</h1>
 
 <h3>A passionate Full-Stack Developer from India. I specialize in building scalable and efficient web applications, with a strong emphasis on DevOps practices and system design principles.</h3>
@@ -59,7 +57,7 @@
   <a href="https://linkedin.com/in/vishal-kumar-779054260" target="_blank">
             <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" class="icon">
         </a>
-        <a href="https://twitter.com/1vishalsd" target="_blank">
+        <a href="https://twitter.com/iVishalCode" target="_blank">
             <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" class="icon">
         </a>
         <a href="mailto:ilearnvk@gmail.com" target="_blank">
