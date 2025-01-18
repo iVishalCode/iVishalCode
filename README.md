@@ -1,71 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive README</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(120deg, #1a73e8, #4285f4);
+            color: #fff;
+            text-align: center;
+        }
+        h1 {
+            margin-top: 20px;
+            font-size: 2.5rem;
+        }
+        h3 {
+            font-weight: 300;
+            margin: 20px 0;
+        }
+        .content {
+            padding: 20px;
+        }
+        .section {
+            margin: 30px auto;
+            padding: 20px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        }
+        .icons img {
+            margin: 10px;
+            width: 50px;
+            cursor: pointer;
+            transition: transform 0.3s;
+        }
+        .icons img:hover {
+            transform: scale(1.2);
+        }
+        .tech-stack {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 10px;
+            padding: 10px 0;
+        }
+        .badge {
+            padding: 5px 10px;
+            border-radius: 5px;
+            background: rgba(255, 255, 255, 0.3);
+            font-weight: bold;
+            display: inline-block;
+        }
+        footer {
+            margin-top: 30px;
+            font-size: 0.8rem;
+        }
+        .fade-in {
+            opacity: 0;
+            animation: fadeIn 1s forwards;
+        }
 
-<h1 align="center">Hi 👋, I'm Vishal</h1>
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <h1>Hi 👋, I'm Vishal</h1>
+        <h3 class="fade-in">A passionate Full-Stack Developer from India, specializing in scalable and efficient web applications.</h3>
 
-<h3>A passionate Full-Stack Developer from India. I specialize in building scalable and efficient web applications, with a strong emphasis on DevOps practices and system design principles.</h3>
+        <div class="section">
+            <h3>🌱 Currently Learning</h3>
+            <p>TypeScript</p>
+        </div>
 
-- 🌱 I’m currently learning **TypeScript**
-  
-- 💬 Ask me about **JavaScript,React.js,Php,Express.js,Mongoose**
+        <div class="section">
+            <h3>💬 Ask Me About</h3>
+            <p>JavaScript, React.js, PHP, Express.js, Mongoose</p>
+        </div>
 
-- 📫 How to reach me **ilearnvk@gmail.com**
-  
-- ⚡ Fun fact **Did you know? When I'm not coding, I love exploring the great outdoors and going on hiking adventures! 🌲🚶‍♂️**
-  
-## 🛠️ Tech Stack
+        <div class="section">
+            <h3>📫 How to Reach Me</h3>
+            <p><a href="mailto:ilearnvk@gmail.com" style="color: #FFD700; text-decoration: none;">ilearnvk@gmail.com</a></p>
+        </div>
 
-**Languages:**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+        <div class="section">
+            <h3>⚡ Fun Fact</h3>
+            <p>Did you know? When I'm not coding, I love hiking adventures! 🌲🚶‍♂️</p>
+        </div>
 
-**Backend:**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
-![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-FF6C37?logo=rest&logoColor=white&style=flat)
-![gRPC](https://img.shields.io/badge/-gRPC-4285F4?logo=grpc&logoColor=white&style=flat)
-![Serverless](https://img.shields.io/badge/-Serverless-FD5750?logo=serverless&logoColor=white&style=flat)
+        <div class="section">
+            <h3>🛠️ Tech Stack</h3>
+            <div class="tech-stack">
+                <span class="badge">JavaScript</span>
+                <span class="badge">TypeScript</span>
+                <span class="badge">Node.js</span>
+                <span class="badge">Express.js</span>
+                <span class="badge">MongoDB</span>
+                <span class="badge">PostgreSQL</span>
+                <span class="badge">React</span>
+                <span class="badge">Next.js</span>
+                <span class="badge">Tailwind CSS</span>
+                <span class="badge">Docker</span>
+                <span class="badge">Kubernetes</span>
+                <span class="badge">AWS</span>
+            </div>
+        </div>
 
-**Frontend:**
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
-![Recoil](https://img.shields.io/badge/-Recoil-3578E5?logo=recoil&logoColor=white&style=flat)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+        <div class="section">
+            <h3>📈 GitHub Stats</h3>
+            <img src="https://github-readme-stats.vercel.app/api?username=iVishalCode&show_icons=true&theme=radical" alt="GitHub Stats">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iVishalCode&layout=compact&theme=radical" alt="Top Languages">
+        </div>
 
-**DevOps & System Design:**
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-007EC6?logo=github-actions&logoColor=white&style=flat)
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white&style=flat)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white&style=flat)
-![Microservices](https://img.shields.io/badge/-Microservices-FF6C37?logo=microservices&logoColor=white&style=flat)
-![Distributed Systems](https://img.shields.io/badge/-Distributed%20Systems-4285F4?logo=distributed-systems&logoColor=white&style=flat)
-![Scalability](https://img.shields.io/badge/-Scalability-339933?logo=scalability&logoColor=white&style=flat)
-![Resiliency](https://img.shields.io/badge/-Resiliency-FF6C37?logo=resiliency&logoColor=white&style=flat)
-![Load Balancing](https://img.shields.io/badge/-Load%20Balancing-4285F4?logo=load-balancing&logoColor=white&style=flat)
-![Security](https://img.shields.io/badge/-Security-232F3E?logo=security&logoColor=white&style=flat)
+        <div class="section">
+            <h3>Connect with Me</h3>
+            <div class="icons">
+                <a href="https://linkedin.com/in/vishal-kumar-779054260" target="_blank">
+                    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+                </a>
+                <a href="https://twitter.com/iVishalCode" target="_blank">
+                    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+                </a>
+                <a href="mailto:ilearnvk@gmail.com" target="_blank">
+                    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+                </a>
+            </div>
+        </div>
+    </div>
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=iVishalCode&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iVishalCode&layout=compact&theme=radical)
-
-<h3 align="left">Connect with me:</h3>
-  <a href="https://linkedin.com/in/vishal-kumar-779054260" target="_blank">
-            <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" class="icon">
-        </a>
-        <a href="https://twitter.com/iVishalCode" target="_blank">
-            <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" class="icon">
-        </a>
-        <a href="mailto:ilearnvk@gmail.com" target="_blank">
-            <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" class="icon">
-        </a>
-
-</p>
-
----
-
-
+    <footer>
+        <p>&copy; 2025 Vishal | Made with HTML, CSS, and JavaScript</p>
+    </footer>
+</body>
+</html>
