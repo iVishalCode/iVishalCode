@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vishal
 
-### A passionate Full-Stack Developer from India. I specialize in building scalable and efficient web applications, with a strong emphasis on DevOps practices and system design principles.
+### A passionate Full-Stack Developer from India. As well as Pursuing the B.tech in Computer Science 
 
 - 🌱 I’m currently learning **TypeScript**
 - 💬 Ask me about **JavaScript, React.js, PHP, Express.js, Mongoose**
