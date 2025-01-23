@@ -2,8 +2,8 @@
 
 ### A passionate Full-Stack Developer from India. As well as Pursuing the B.tech in Computer Science 
 
-- 🌱 I’m currently learning **TypeScript**
-- 💬 Ask me about **JavaScript, React.js, PHP, Express.js, Mongoose**
+- 🌱 I’m currently learning **Next.js**
+- 💬 Ask me about **JavaScript, React.js, PHP, Express.js, Mongoose , TypeScript**
 - 📫 How to reach me **ilearnvk@gmail.com**
 - ⚡ Fun fact **Did you know? When I'm not coding, I love exploring the great outdoors and going on hiking adventures! 🌲🚶‍♂️**
 
