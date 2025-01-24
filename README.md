@@ -14,7 +14,8 @@
 
 ## 📈 My Coding Stats (via WakaTime)
 <!-- WakaTime Stats -->
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iVishalCode&layout=compact&theme=radical)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=&layout=compact&theme=radical)
+
 
 
 ### Connect with me:
