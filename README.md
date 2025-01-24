@@ -11,6 +11,12 @@
   <a href="https://github.com/iVishalCode/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;WEB3%20%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
+
+## 📈 My Coding Stats (via WakaTime)
+<!-- WakaTime Stats -->
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iVishalCode&layout=compact&theme=radical)
+
+
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-kumar-779054260)
