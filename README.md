@@ -1,10 +1,18 @@
 # Hi 👋, I'm Vishal
 
 ### A passionate Full-Stack Developer from India. As well as Pursuing the B.tech in Computer Science 
-- 📫 How to reach me **ilearnvk@gmail.com**
-- ⚡ Fun fact **Did you know? When I'm not coding, I love exploring the great outdoors and going on hiking adventures! 🌲🚶‍♂️**
 
----
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+  
+ <!--<img src="https://komarev.com/ghpvc/?username=swarajbachu&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="swarajbachu" />-->
+ ![visitors](https://komarev.com/ghpvc/?username=swarajbachu&label=Profile%20views&color=0e75b6&style=flat")
+
+<br/>
+
+
+<p align="center">
+  <a href="https://github.com/swarajbachu/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
 
 ## 🛠️ Tech Stack
 
