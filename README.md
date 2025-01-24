@@ -11,6 +11,21 @@
   <a href="https://github.com/swarajbachu/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;WEB3%20%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
+
+<table>
+<tr>
+  <td align="center">
+  <a href="https://github.com/iVishalCode">
+    <img align="center" height="300px" width="600" src="https://github-readme-stats.vercel.app/api/wakatime?username=iVishalCode"/>
+  </a>
+  </td>
+<!--   <td align="center">
+  <a href="https://github.com/swarajbachu">
+    <img align="center" height="200px" width="600" src="https://github-readme-stats.vercel.app/api/top-langs?username=swarajbachu&show_icons=true&locale=en&layout=compact&theme=material-palenight" />
+  </a>
+  </td> -->
+</tr>
+</table>
 ## 🛠️ Tech Stack
 
 ### **Languages:**
