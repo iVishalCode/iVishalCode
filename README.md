@@ -15,7 +15,7 @@
 ### 🕒 WakaTime Stats
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
+https://wakatime.com/dashboard
 
 ### Connect with me:
 
