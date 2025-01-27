@@ -12,10 +12,9 @@
 </p>
 
 
-## 📈 My Coding Stats (via WakaTime)
-<!-- WakaTime Stats -->
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=&layout=compact&theme=radical)
-
+## 📈 My Coding Stats (via WakaTime### 🕒 WakaTime Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 ### Connect with me:
