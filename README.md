@@ -2,7 +2,8 @@
 
   
  <!--<img src="https://komarev.com/ghpvc/?username=swarajbachu&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="swarajbachu" />-->
- ![visitors](https://komarev.com/ghpvc/?username=iVishalCode&label=Profile%20views&color=0e75b6&style=flat")
+![Profile Views](http://img.shields.io/badge/Profile%20Views-117-blue)
+
 
 <br/>
 
@@ -16,7 +17,6 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2031%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-117-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
 
