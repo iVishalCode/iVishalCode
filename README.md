@@ -21,72 +21,59 @@
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
 
 **🐱Tech Stack** 
-
-Here's a list of tech stack icons (using shields.io) that you can use in your GitHub README:
+If you want **circular icons**, you can use icons with minimal text or logos to match the aesthetic. Below is a tech stack list with circular icons (using shields.io):
 
 ---
 
 ## 🚀 **Tech Stack**
 
-### **Languages and Frameworks**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+### **Languages**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-circle&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-circle&logo=typescript&logoColor=white)
+
+---
+
+### **Backend**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-circle&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-circle&logo=express&logoColor=white)
 
 ---
 
 ### **Databases**
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-circle&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-circle&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-circle&logo=redis&logoColor=white)
 
 ---
 
-### **DevOps Tools**
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+### **Frontend**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-circle&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-circle&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-circle&logo=tailwind-css&logoColor=white)
 
 ---
 
-### **UI & Styling**
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### **DevOps**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-circle&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-circle&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-circle&logo=amazon-aws&logoColor=white)
 
 ---
 
-### **Tools and Technologies**
-![TurboRepo](https://img.shields.io/badge/-Turborepo-0B2B44?style=for-the-badge&logo=turborepo&logoColor=white)
-![Zod](https://img.shields.io/badge/-Zod-262626?style=for-the-badge&logo=zod&logoColor=white)
-![OpenAPI](https://img.shields.io/badge/-OpenAPI-85EA2D?style=for-the-badge&logo=openapi-initiative&logoColor=black)
+### **Tools**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-circle&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-circle&logo=github&logoColor=white)
+![Zod](https://img.shields.io/badge/-Zod-262626?style=flat-circle&logo=zod&logoColor=white)
+![TurboRepo](https://img.shields.io/badge/-TurboRepo-0B2B44?style=flat-circle&logo=turborepo&logoColor=white)
 
 ---
 
-### **Version Control & CI/CD**
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+### **Messaging**
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-circle&logo=apache-kafka&logoColor=white)
 
 ---
 
-### **Authentication**
-![NextAuth.js](https://img.shields.io/badge/-NextAuth.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
----
-
-### **Messaging & Queues**
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-
----
-
-Copy and paste these into your README.md to showcase your tech stack. You can customize the order and add/remove badges as needed!
-**I'm an Early 🐤** 
+You can replace `flat-circle` with `for-the-badge` or `flat-square` for other styles. Copy these directly into your GitHub README!
 
 ```text
 🌞 Morning                193 commits         ████████████░░░░░░░░░░░░░   47.89 % 
