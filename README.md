@@ -73,7 +73,7 @@ If you want **circular icons**, you can use icons with minimal text or logos to 
 
 ---
 
-You can replace `flat-circle` with `for-the-badge` or `flat-square` for other styles. Copy these directly into your GitHub README!
+**Most Commit**
 
 ```text
 🌞 Morning                193 commits         ████████████░░░░░░░░░░░░░   47.89 % 
