@@ -21,7 +21,7 @@
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
 
 **🐱Tech Stack** 
-If you want **circular icons**, you can use icons with minimal text or logos to match the aesthetic. Below is a tech stack list with circular icons (using shields.io):
+
 
 ---
 
