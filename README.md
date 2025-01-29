@@ -15,62 +15,43 @@
 
 ### 🕒 WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2014%20mins-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-131-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
 
+**🐱 My GitHub Data** 
 
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 131 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 27 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
 
+```text
+🌞 Morning                200 commits         ████████████░░░░░░░░░░░░░   48.78 % 
+🌆 Daytime                114 commits         ███████░░░░░░░░░░░░░░░░░░   27.80 % 
+🌃 Evening                43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+🌙 Night                  53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+```
+📅 **I'm Most Productive on Tuesday** 
 
-## 🚀 **Tech Stack**
----
-### **Languages**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-circle&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-circle&logo=typescript&logoColor=white)
-
----
-
-### **Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-circle&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-circle&logo=express&logoColor=white)
-
----
-
-### **Databases**
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-circle&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-circle&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-circle&logo=redis&logoColor=white)
-
----
-
-### **Frontend**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-circle&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-circle&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-circle&logo=tailwind-css&logoColor=white)
-
----
-
-### **DevOps**
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-circle&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-circle&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-circle&logo=amazon-aws&logoColor=white)
-
----
-
-### **Tools**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-circle&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-circle&logo=github&logoColor=white)
-![Zod](https://img.shields.io/badge/-Zod-262626?style=flat-circle&logo=zod&logoColor=white)
-![TurboRepo](https://img.shields.io/badge/-TurboRepo-0B2B44?style=flat-circle&logo=turborepo&logoColor=white)
-
----
-
-### **Messaging**
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-circle&logo=apache-kafka&logoColor=white)
-
----
-
+```text
+Monday                   43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+Tuesday                  76 commits          █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
+Wednesday                67 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Thursday                 59 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Friday                   56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Saturday                 58 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+Sunday                   51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+```
 
 
 📊 **This Week I Spent My Time On** 
@@ -79,17 +60,17 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 56 mins        ███████████████████░░░░░░   77.23 % 
-YAML                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-Prisma                   9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+TypeScript               3 hrs 19 mins       ████████████████████░░░░░   78.64 % 
+Prisma                   29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+YAML                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 31 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 14 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 31 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -105,7 +86,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/01/2025 01:15:56 UTC
+ Last Updated on 29/01/2025 01:15:55 UTC
 <!--END_SECTION:waka-->
 
 
