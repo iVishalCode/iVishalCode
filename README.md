@@ -25,6 +25,8 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 131 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 27 Public Repositories 
@@ -58,14 +60,13 @@ Sunday                   48 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               17 mins             ███████████████████████░░   92.40 % 
-Prisma                   1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -81,7 +82,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/02/2025 01:17:45 UTC
+ Last Updated on 14/02/2025 01:17:39 UTC
 <!--END_SECTION:waka-->
 
 
