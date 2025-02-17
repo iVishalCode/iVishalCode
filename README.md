@@ -25,8 +25,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 131 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 27 Public Repositories 
@@ -82,7 +80,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/02/2025 01:23:42 UTC
+ Last Updated on 17/02/2025 01:20:24 UTC
 <!--END_SECTION:waka-->
 
 
