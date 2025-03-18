@@ -15,7 +15,7 @@
 
 ### 🕒 WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -24,8 +24,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 149 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,14 +58,15 @@ Sunday                   48 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 9 mins         █████████████████████░░░░   82.32 % 
-Prisma                   15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+TypeScript               1 hr 36 mins        █████████████████████░░░░   84.21 % 
+Prisma                   17 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🔥 Editors: 
-VS Code                  1 hr 24 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 54 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 24 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 54 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -83,7 +82,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/03/2025 01:24:07 UTC
+ Last Updated on 18/03/2025 01:22:13 UTC
 <!--END_SECTION:waka-->
 
 
